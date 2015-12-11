@@ -39,7 +39,8 @@ include \
     "ratpack-pac4j",
     "ratpack-hystrix",
     "ratpack-spring-boot",
-    "ratpack-benchmark"
+    "ratpack-benchmark",
+    "ratpack-retrofit"
 
 include "perf"
 
